@@ -1,13 +1,4 @@
-### Hi there 👋
-
-<!--
-**Choco-init/Choco-init** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on .# 💫 About Me:
+# 💫 About Me:
 Data Scientist with 3+ years experience. Based on NLP/LLM/RAG/AI <br>
 
 
@@ -24,3 +15,4 @@ Data Scientist with 3+ years experience. Based on NLP/LLM/RAG/AI <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Choco-init&icon=9&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
